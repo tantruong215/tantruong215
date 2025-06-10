@@ -24,10 +24,12 @@ Featured projects:
 
 ## Skills and Tools
 
-**Hardware**: STM32, ESP32, Jetson Nano, Artix-7 FPGA  
+**Hardware**: STM32, ESP32, Jetson Nano, Artix-7 FPGA, Raspberry Pi  
 **Languages**: C/C++, Verilog, Python, MATLAB  
-**Toolchains**: KiCad, LTspice, Vivado, ISE, FreeRTOS  
-**DevOps & Visualization**: Git, Node-RED, InfluxDB, Grafana, GitHub Actions
+**Toolchains**: Vivado, ISE, KiCad, LTspice, FreeRTOS  
+**DevOps & Visualization**: Git, GitHub Actions, Docker, Node-RED, InfluxDB, Grafana  
+**Protocols & OS**: SPI, I²C, UART, MQTT; Linux/Bash scripting  
+
 
 ---
 
