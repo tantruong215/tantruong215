@@ -7,7 +7,7 @@ Focused on embedded systems, power electronics, signal processing, and renewable
 
 ## Current Focus (Summer 2025)
 
-Actively building 18 projects across 6 core domains, including:
+Actively building 3 projects across core domains, including:
 
 - Microcontroller and FPGA-based systems (RISC-V, FreeRTOS)
 - Power conversion (buck, boost, MPPT)
@@ -15,13 +15,10 @@ Actively building 18 projects across 6 core domains, including:
 - Signal processing and embedded AI
 - Smart energy systems (solar, wind, IoT)
 
-Featured anchor projects:
+Featured projects:
 - [RISC-V + FreeRTOS Soft Core](https://github.com/tantruong215/riscv-freertos-softcor)
 - [Adaptive ANC Headphones](https://github.com/tantruong215/adaptive-anc-headphones)
-- [Synchronous Buck Converter](https://github.com/tantruong215/sync-buck-converter)
-- [DC Motor GUI Controller](https://github.com/tantruong215/pid-motor-gui)
 - [Multi-Protocol IoT Sensor Node](https://github.com/tantruong215/iot-multimode-sensor-node)
-- [Wind Turbine Controller](https://github.com/tantruong215/wind-turbine-controller)
 
 ---
 
