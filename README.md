@@ -35,7 +35,7 @@ Featured projects:
 
 ## Contact
 
-📫 Email: tantruong215@gmail.com  
+📫 Email: idyetan@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/tan-truong-b90538323](https://www.linkedin.com/in/tan-truong-b90538323)  
 💻 GitHub: [github.com/tantruong215](https://github.com/tantruong215)
 
