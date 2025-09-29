@@ -1,6 +1,6 @@
 # Tan Truong
 
-Electrical Engineering undergrad (Sophomore, Class of 2027)  
+Electrical Engineering undergrad (Junior, Class of 2027)  
 Focused on embedded systems, power electronics, signal processing, and renewable energy systems.
 
 ---
