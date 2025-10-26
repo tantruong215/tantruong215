@@ -1,20 +1,5 @@
 # Tan Truong
 
-Electrical Engineering undergrad (Junior, Class of 2027)  
-Focused on embedded systems, power electronics, signal processing, and renewable energy systems.
-
----
-
-## Current Focus (Summer 2025)
-
-Actively building 3 projects across core domains, including:
-
-- Microcontroller and FPGA-based systems (RISC-V, FreeRTOS)
-- Power conversion (buck, boost, MPPT)
-- Real-time data acquisition and control
-- Signal processing and embedded AI
-- Smart energy systems (solar, wind, IoT)
-
 Featured projects:
 - [RISC-V + FreeRTOS Soft Core](https://github.com/tantruong215/riscv-freertos-softcor)
 - [Adaptive ANC Headphones](https://github.com/tantruong215/adaptive-anc-headphones)
