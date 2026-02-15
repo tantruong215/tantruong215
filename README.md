@@ -1,9 +1,5 @@
 # Tan Truong
 
-Featured projects:
-- [RISC-V + FreeRTOS Soft Core](https://github.com/tantruong215/riscv-freertos-softcor)
-- [Adaptive ANC Headphones](https://github.com/tantruong215/adaptive-anc-headphones)
-- [Multi-Protocol IoT Sensor Node](https://github.com/tantruong215/iot-multimode-sensor-node)
 
 ---
 
