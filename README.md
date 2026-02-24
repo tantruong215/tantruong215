@@ -16,7 +16,7 @@
 
 ## Contact
 
-📫 Email: idyetan@gmail.com  
+📫 Email: tantruong@umass.edu
 🔗 LinkedIn: (https://www.linkedin.com/in/tantruong21/)
 💻 GitHub: [github.com/tantruong215](https://github.com/tantruong215)
 
